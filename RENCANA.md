@@ -56,4 +56,4 @@ berhenti di dasar-dasar ini.
 - [x] Satu perintah menjalankan proses terisolasi: rootfs, hostname,
       PID, dan batas sumber daya terbukti dari dalam & luar.
 - [x] `CATATAN.md` satu halaman per irisan: konsep inti + temuan.
-- [ ] Repo GitHub publik `build-your-own-docker-python` terbit & terverifikasi.
+- [x] Repo GitHub publik `build-your-own-docker-python` terbit & terverifikasi.
